@@ -4,7 +4,7 @@ Start your Node.js and Express.js backend journey here! This guide will help you
 
 | # No |                                                                       Topics                                                                        |
 | ----- | :-------------------------------------------------------------------------------------------------------------------------------------------------: |
-| 01    |                                                             [Introduction](./readMe.md)                                                             |
+| 01    |                                                             [Introduction](./README.md)                                                             |
 | 02    |                                               [Basic Overview](./.md)                                                |
 | 03    |                             [Basic Node.js](./.md)                             |
 | 04    |                                            [Clients And Servers](./.md)                                             |
